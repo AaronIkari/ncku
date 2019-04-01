@@ -26,5 +26,6 @@
             |- graph_3.txt
             |- graph_4.txt
             |- graph_5.txt
+            |- graph_6.txt
         |- results
 ```
