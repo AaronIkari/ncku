@@ -22,40 +22,40 @@
 
 ## Structures
 ```
-|-- socal & information_network analysis 
-    |-- Project 0A
-        |-- pj0a.pdf
-        |-- pj0a.py
-        |-- nba_data.csv
-        |-- result.txt
-    |-- Project 0B
-        |-- pj0b.pdf
-        |-- pj0b.py
-        |-- priorityQueue.py
-        |-- results
+|- socal & information_network analysis 
+    |- Project 0A
+        |- pj0a.pdf
+        |- pj0a.py
+        |- nba_data.csv
+        |- result.txt
+    |- Project 0B
+        |- pj0b.pdf
+        |- pj0b.py
+        |- priorityQueue.py
+        |- results
             |- *
-    |-- Project 1 
-        |-- pj1.pdf
-        |-- sna_website_slide.pdf
-        |-- networkdata.txt
-        |-- lpa
-            |-- lpa.py
-            |-- priorityQueue.py
-        |-- slpa
-            |-- STATUS.md
-            |-- slpa.py
-            |-- test_slpa.py
-            |-- input_graph_undirected.txt
-            |-- results
-                |-- *
-        |-- Community_Detection.pdf
-    |-- Project 2
-        |-- pj2.pdf
-        |-- rtg.py
-        |-- BA_model.pdf
-        |-- ER_model.pdf
-        |-- WS_model.pdf
-        |-- Network_Generator.pdf
-    |-- Project 3
-        |-- pj3.pdf
+    |- Project 1 
+        |- pj1.pdf
+        |- sna_website_slide.pdf
+        |- networkdata.txt
+        |- lpa
+            |- lpa.py
+            |- priorityQueue.py
+        |- slpa
+            |- STATUS.md
+            |- slpa.py
+            |- test_slpa.py
+            |- input_graph_undirected.txt
+            |- results
+                |- *
+        |- Community_Detection.pdf
+    |- Project 2
+        |- pj2.pdf
+        |- rtg.py
+        |- BA_model.pdf
+        |- ER_model.pdf
+        |- WS_model.pdf
+        |- Network_Generator.pdf
+    |- Project 3
+        |- pj3.pdf
 ```
