@@ -1,0 +1,21 @@
+threshold = 0, iteration = 20, comunities = 43, NMI = 0.9714, ANC = 0.9545
+threshold = 0.1, iteration = 20, comunities = 41, NMI = 0.9913, ANC = 0.9886
+============================================================================
+threshold = 0.3, iteration = 15, comunities = 44, NMI = 0.9970, ANC = 0.9886
+threshold = 0.3, iteration = 16, comunities = 43, NMI = 0.9770, ANC = 0.9886
+threshold = 0.3, iteration = 17, comunities = 41, NMI = 0.9485, ANC = 0.9659 
+threshold = 0.3, iteration = 18, comunities = 41, NMI = 0.9670, ANC = 0.9659 
+threshold = 0.3, iteration = 19, comunities = 43, NMI = 0.9949, ANC = 0.9886 
+threshold = 0.3, iteration = 20, comunities = 40, NMI = 0.9665, ANC = 0.9886
+threshold = 0.3, iteration = 21, comunities = 42, NMI = 0.9888, ANC = 0.9773
+threshold = 0.3, iteration = 22, comunities = 40, NMI = 0.9570, ANC = 0.9545
+threshold = 0.3, iteration = 23, comunities = 42, NMI = 0.9832, ANC = 0.9773
+threshold = 0.3, iteration = 25, comunities = 43, NMI = 0.9895, ANC = 0.9886
+threshold = 0.3, iteration = 26, comunities = 44, NMI = 1.0000, ANC = 1.0000
+threshold = 0.3, iteration = 27, comunities = 43, NMI = 0.9800, ANC = 0.9886 
+threshold = 0.3, iteration = 28, comunities = 43, NMI = 0.9943, ANC = 0.9886
+threshold = 0.3, iteration = 29, comunities = 40, NMI = 0.9674, ANC = 0.9545 
+threshold = 0.3, iteration = 30, comunities = 39, NMI = 0.8023, ANC = 0.8295
+============================================================================
+
+
